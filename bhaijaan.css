@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+}
+
+.bg{
+	background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+	height: 200px;
+	text-align: center;
+	font-size: 25px;
+	font-family: 'Archivo Black', sans-serif;
+	padding-top: 40px;
+
+}
+
+body{
+	margin: 0;
+}
+
+.text{
+	color: white;
+}
+
+.info{
+	display: inline-block;
+	font-size: 12px;
+	padding-top: 60px;
+	margin-right: 20px;
+}

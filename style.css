@@ -1,0 +1,33 @@
+.para {
+	   color: blue;
+}
+div{
+	height: 100px;
+
+}
+
+.red {
+	background-color: red;
+}
+
+.green {
+	background-color: green;
+	width: 40%;
+	vertical-align: top;
+    display: inline-block;
+
+}
+
+.yellow {
+	background-color: yellow;
+	width: 40%;
+	display: inline-block;
+}
+
+body {
+	    margin: 0;
+}
+
+.container{
+	text-align: center;
+}
